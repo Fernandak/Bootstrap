@@ -1,0 +1,37 @@
+.collapse{
+    background-color: aquamarine;
+    text-align: center;
+}
+.navbar{
+    align-items: center ;
+}
+.container{
+    text-align: center;
+    padding: auto;
+}
+.mb{
+    margin-top: 80%;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+}
+h2{
+    text-align: center;
+}
+#carouselControls{
+    text-align: center;
+    padding: 20px;
+    width: 100% ;
+    height:auto ;
+}
+
+.center{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+.imgcarousel{
+    width: 90%;
+    height: 400px;   
+    padding: 20px;
+}
